@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161616</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#f44336</color>
+    <color name="semiTransparentView0">#68212121</color>
+    <color name="semiTransparentView1">#d4212121</color>
+
+    <color name="TitleWhite">#FFFFFF</color>
+
+    <color name="colorNavBarSelected">#f44336</color>
+    <color name="colorNavBarNoSelected">#fafafa</color>
+
+</resources>
