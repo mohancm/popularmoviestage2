@@ -313,7 +313,7 @@ ReviewAdapter.ItemClickListener, TrailerAdapter.ItemClickListener{
 
     @NonNull
     @Override
-    public Loader onCreateLoader(int id, @Nullable final Bundle args) {
+    public  Loader onCreateLoader(int id, @Nullable final Bundle args) {
         if(id == CURSOR_LOADER || id == CURSOR_TRAILER_LOADER || id == CURSOR_REVIEW_LOADER){
             return new AsyncTaskLoader<Cursor>(this) {
                 @Override
